@@ -2,7 +2,7 @@
 This repo acts as the source control for my CS 4632 semester long project.
 ![image](https://github.com/user-attachments/assets/03a51946-04b5-46ec-9450-5e9c5ce254cd)
 
-This image acts as a representation of the current progress for the project.
+This image taken from the program run on Unity acts as a representation of the current progress for the project.
 
 Link to project: https://github.com/IAmFaulty/StorefrontSimulation 
 
