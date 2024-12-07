@@ -21,3 +21,9 @@ Note: It was later realized that customers didn't really need to pass by the sho
 # Lessons Learned:
 1. Never enter tutorial hell. It ended up wasting a lot of my time that I otherwise could've spent looking for answers and troubleshooting myself. Rarely did I find the answers without first prodding at the problem to see what was wrong in the first place, and that's what I've learned is better to do now.
 2. Suffering is a great way to learn. It won't be enjoyable, but the bandaid will always hurt to take it off, y'know?
+
+Bonus!
+
+![image](https://github.com/user-attachments/assets/03a51946-04b5-46ec-9450-5e9c5ce254cd)
+
+First Prototype ^
