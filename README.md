@@ -1,8 +1,10 @@
 # StorefrontSimulation
 This repo acts as the source control for my CS 4632 semester long project.
 
-Finished Project
+
 ![image](https://github.com/user-attachments/assets/0aae953e-c943-4812-8148-35d1f64ac6de)
+
+Finished Project ^
 
 
 This image taken from the program run on Unity acts as a representation of the current progress for the project.
