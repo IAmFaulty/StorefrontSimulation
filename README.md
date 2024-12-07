@@ -11,7 +11,7 @@ This image taken from the program run on Unity acts as a representation of the c
 
 Link to project: https://github.com/IAmFaulty/StorefrontSimulation 
 
-# How to Run:\
+# How to Run:
 1. Download all files as a Zip
 2. Extract all files
 3. Download Unityplayer.dll seperately
